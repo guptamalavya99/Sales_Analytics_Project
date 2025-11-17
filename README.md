@@ -1,6 +1,6 @@
-📊 Sales Analytics Project (Python + Excel + VBA)
+# 📊 **Sales Analytics Project (Python + Excel + VBA)**
 
-1.	Project Overview
+### **1.	Project Overview**
 
 This project is an end-to-end Sales Analytics solution built using (Python, Pandas, NumPy, Matplotlib, Excel, Pivot Tables, and VBA).
 It demonstrates my ability to clean raw data, perform statistical analysis, create visual insights, build an interactive Excel dashboard, and automate sorting using VBA.
@@ -8,7 +8,7 @@ It demonstrates my ability to clean raw data, perform statistical analysis, crea
 The project helps understand sales performance , customer trends , product demand , and monthly growth patterns.
 
 
-2. Tools & Technologies Used
+### **2. Tools & Technologies Used**
 
 ⦁	Python : Pandas , NumPy , Matplotlib
 
@@ -21,7 +21,7 @@ The project helps understand sales performance , customer trends , product deman
 ⦁	File Formats : CSV, XLSX
 
 
-3. Data Cleaning & Processing (Python)
+### **3. Data Cleaning & Processing (Python)**
 
 Performed in Python to generate a clean dataset:
 
@@ -35,7 +35,7 @@ Performed in Python to generate a clean dataset:
 
 ⦁	 Generated summary statistics: mean, median, standard deviation, percentiles
 
-4. Visualizations Created
+### **4. Visualizations Created**
 
 ⦁	 Total Sales distribution charts as per product line , city , months , customers created using Matplotlib
 
@@ -44,7 +44,7 @@ Performed in Python to generate a clean dataset:
 ⦁	 Insights on sales spread using standard deviation and percentile
 
 
-5. Excel Dashboard
+### **5. Excel Dashboard**
 
  Includes:
 
@@ -60,7 +60,7 @@ Performed in Python to generate a clean dataset:
 
 ⦁	 Clean, minimal formatting for recruiter readability
 
-6. Interactive Elements
+### **6. Interactive Elements**
 
 ⦁	VBA-based “Click to Sort” button to sort through various categories
 
@@ -70,7 +70,7 @@ Performed in Python to generate a clean dataset:
 
 
 
-7. Key Insights
+### **7. Key Insights**
 
 ⦁	Classic Cars generated the highest revenue among all product lines, amounting to ₹1,67,950.15.
 
@@ -80,7 +80,7 @@ Performed in Python to generate a clean dataset:
 
 ⦁	Monthly sales fluctuations show a clear seasonal pattern, indicating increased demand during certain months and slower performance during others.
 
-8. Project Folder Structure
+### **8. Project Folder Structure**
 
 Sales-Analytics-Project
 **│
@@ -100,8 +100,8 @@ Sales-Analytics-Project
 ├── Matplotlib_charts.png**
 
 
-9. Author
+### **9. Author**
 
-Malavya Gupta
+**Malavya Gupta**
 Aspiring business & Product Analyst
 Skills: Python(Pandas, NumPy , Matplotlib) , SQL, Excel, VBA, Data Analytics
