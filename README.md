@@ -82,21 +82,21 @@ Performed in Python to generate a clean dataset:
 
 ### **8. Project Folder Structure**
 
-Sales-Analytics-Project
+Sales-Analytics-Project <br>
 **│
-├── Dataset
-│   ├── raw\_salesdata.csv
-│   └── cleaned\_salesdata.xlsx
-│
-├── python
-│   ├── cleaning_script.py
-│
-├── excel
-│   └── Sales_Dashboard.xlsx
-│
-├── README.md
-│
-└── Charts
+├── Dataset<br>
+│   ├── raw\_salesdata.csv <br>
+│   └── cleaned\_salesdata.xlsx <br>
+│<br>
+├── python notebook <br>
+│   ├── cleaning_script.py <br>
+│<br>
+├── Excel <br>
+│   └── Sales_Dashboard.xlsx <br>
+│<br>
+├── Documentation <br>
+│<br>
+└── Charts <br>
 ├── Matplotlib_charts.png**
 
 
