@@ -11,9 +11,13 @@ The project helps understand sales performance , customer trends , product deman
 2. Tools & Technologies Used
 
 ⦁	Python : Pandas , NumPy , Matplotlib
+
 ⦁	Excel : Pivot Tables, Charts, Slicers, Formatting
+
 ⦁	VBA : Button-based sorting macro
+
 ⦁	IDE : PyCharm
+
 ⦁	File Formats : CSV, XLSX
 
 
@@ -22,15 +26,21 @@ The project helps understand sales performance , customer trends , product deman
 Performed in Python to generate a clean dataset:
 
 ⦁	 Handled missing values
+
 ⦁	 Corrected data types (dates, integers, strings)
+
 ⦁	 Removed duplicates
+
 ⦁	 Added calculated fields
+
 ⦁	 Generated summary statistics: mean, median, standard deviation, percentiles
 
 4. Visualizations Created
 
 ⦁	 Total Sales distribution charts as per product line , city , months , customers created using Matplotlib
+
 ⦁	 Summary statistics using NumPy
+
 ⦁	 Insights on sales spread using standard deviation and percentile
 
 
@@ -39,10 +49,15 @@ Performed in Python to generate a clean dataset:
  Includes:
 
 ⦁	 KPI Cards (Top Product, Total Sales, Total Quantity, Region Performance)
+
 ⦁	 Sales by Month (bar chart)
+
 ⦁	 Region-wise Sales (pivot chart)
+
 ⦁	 Product Performance Table
+
 ⦁	 Slicer for Month filtering
+
 ⦁	 Clean, minimal formatting for recruiter readability
 
 6. Interactive Elements
