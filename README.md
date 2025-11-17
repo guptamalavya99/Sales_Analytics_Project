@@ -82,7 +82,7 @@ Performed in Python to generate a clean dataset:
 
 ### **8. Project Folder Structure**
 
-Sales-Analytics-Project <br>
+#### Sales-Analytics-Project <br>
 **│
 ├── Dataset<br>
 │   ├── raw\_salesdata.csv <br>
