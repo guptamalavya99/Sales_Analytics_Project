@@ -102,6 +102,6 @@ Sales-Analytics-Project
 
 ### **9. Author**
 
-**Malavya Gupta**
-Aspiring business & Product Analyst
+**Malavya Gupta**<br>
+Aspiring business & Product Analyst<br>
 Skills: Python(Pandas, NumPy , Matplotlib) , SQL, Excel, VBA, Data Analytics
