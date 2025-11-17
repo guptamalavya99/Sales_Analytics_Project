@@ -48,7 +48,9 @@ Performed in Python to generate a clean dataset:
 6. Interactive Elements
 
 ⦁	VBA-based “Click to Sort” button to sort through various categories
+
 ⦁	 Slicers for dynamic filtering
+
 ⦁	 All pivot tables placed on separate sheets based on the different categories for a clean and easy to understand analysis
 
 
